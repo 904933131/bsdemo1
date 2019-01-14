@@ -10,4 +10,8 @@ package com.first.boot.bsdemo;
 
 
 public class DBHelper {
+
+    public void get(){
+        System.out.println("持久化....");
+    }
 }
