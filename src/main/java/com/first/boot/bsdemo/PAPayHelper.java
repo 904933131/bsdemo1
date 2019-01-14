@@ -16,6 +16,6 @@ public class PAPayHelper {
     }
 
     public void post(){
-
+        System.out.println("11");
     }
 }
