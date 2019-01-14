@@ -14,4 +14,8 @@ public class PAPayHelper {
     public void get(){
         System.out.println("持久化....");
     }
+
+    public void post(){
+
+    }
 }
