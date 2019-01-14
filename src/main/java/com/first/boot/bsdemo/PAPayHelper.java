@@ -17,5 +17,6 @@ public class PAPayHelper {
 
     public void post(){
         System.out.println("22222");
+        System.out.println("2333333");
     }
 }
