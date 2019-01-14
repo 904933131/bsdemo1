@@ -24,4 +24,9 @@ public class HelloController {
     public String admin(){
         return "需授权";
     }
+
+    @GetMapping("/admin1")
+    public String admin1(){
+        return "后台管理页面";
+    }
 }
